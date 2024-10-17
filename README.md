@@ -12,3 +12,6 @@ Recording: https://youtu.be/S82oyR4fzsc?si=lWHS9oc8oWYDyRxK
 ## ElixirConf US 2024 (2024-08-29)
 Site: https://2024.elixirconf.com/schedule/messaging-with-limits-concurrent-multi-stage-data-processing-in-the-real-world  
 Recording: Coming soon
+
+## Momentum 2024 (2024-10-17)
+Site: https://momentumdevcon.com/session/682386  
